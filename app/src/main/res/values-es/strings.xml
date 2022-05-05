@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clasificaciones de mercado</string>
+    <string name="login">Acceso</string>
+    <string name="sign_up">Inscribirse</string>
+    <string name="username">Nombre de usuario</string>
+    <string name="password">Clave</string>
+    <string name="login_success">Iniciado sesión como %1$s</string>
+    <string name="login_failure_generic">Error al iniciar sesión: %1$s</string>
+    <string name="login_failure_wrong_credentials">Por favor, compruebe su nombre de usuario y contraseña e inténtelo de nuevo.</string>
+    <string name="login_failure_doesnt_exist">No podemos encontrar una cuenta con este correo electrónico. ¡Intenta registrarte para obtener una cuenta!</string>
+    <string name="signup_success">Registrado con éxito como %1$s</string>
+    <string name="signup_failure_generic">No se pudo registrar: %1$s</string>
+    <string name="signup_failure_weak_password">¡Su contraseña no cumple con los requisitos mínimos! Debe tener al menos 6 caracteres.</string>
+    <string name="signup_failure_already_exists">¡Ya existe una cuenta para este correo electrónico!</string>
+    <string name="signup_failure_invalid_format">¡Debe proporcionar un correo electrónico con formato válido!</string>
+    <string name="symbol">símbolo</string>
+    <string name="name">nombre</string>
+    <string name="currency_name">Nombre de moneda</string>
+    <string name="symbol_currency">Símbolo</string>
+    <string name="usd_price">$ USD</string>
+    <string name="market_cap">Tapa del mercado</string>
+    <string name="symbol_desc">Símbolo</string>
+    <string name="curr_name">"Nombre: "</string>
+    <string name="price_tracking">Seguimiento de precios</string>
+    <string name="watchlist">lista de seguimiento</string>
+    <string name="failed_to_retrieve">¡Error al recuperar la moneda!</string>
+    <string name="symbol_short">"Símbolo: "</string>
+    <string name="mrkt_cap">"Tapa del mercado: "</string>
+    <string name="price_short">"Precio: "</string>
+    <string name="curr_conversion">" Conversión de Moneda"</string>
+    <string name="conversion">" Conversión"</string>
+    <string name="personal_watchlist">Lista de vigilancia personal</string>
+    <string name="view_personal_watchlist">Ver lista de vigilancia personal</string>
+    <string name="coin_search">Búsqueda de monedas</string>
+    <string name="coin">Moneda</string>
+    <string name="search_for_coin">buscar moneda</string>
+    <string name="view_market_rankings">Ver clasificaciones de mercado</string>
+    <string name="market_stats">Estadísticas del mercado</string>
+    <string name="logged_in_as">"Conectado como "</string>
+    <string name="registered">"Registrado con éxito como"</string>
+</resources>

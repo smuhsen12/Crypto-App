@@ -1,2 +1,2 @@
-# Crypto-App
-Uses the REST API and the CoinMarketCap API in order to retrieve data from the market.
+# Crypto App
+An Android app where the user can view the Crypto market, search for coins, and add them to a personal watchlist
